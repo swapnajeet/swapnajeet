@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swapnajeet
-- 👀 I’m interested in cloud native technologies.
-- 🌱 I’m currently learning Kubernates application development and Azure cloud integration.
-- 💞️ I’m looking to collaborate on application development and management on a Kebernates cluster.
+- 👀 I’m interested in cloud native and AI technologies.
+- 🌱 I’m currently working AI powered search application development on Kubernetes platform with Azure cloud integrations.
+- 💞️ I’m looking to collaborate on application development with GenAI and RAG integration.
 - 📫 Feel free to connect with me at www.linkedin.com/in/swapnajeet-singh.
 
 <!---
